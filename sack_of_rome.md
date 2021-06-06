@@ -19,7 +19,7 @@ Must have a gentle hill on the roman right side.
 Must have a pack train.
 
 ## Victory conditions
-Rome wins if they can prevent the sacking by inflicting 14 VP before they receive 16 VP.
+Rome wins if they can prevent the sacking by inflicting 12 VP before they receive 16 VP.
 
 
 ## References
